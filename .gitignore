@@ -1,0 +1,6 @@
+# Directories for pycharm project
+.idea/
+venv/
+
+# Database folder with data
+world_x-db/
